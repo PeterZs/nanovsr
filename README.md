@@ -9,6 +9,7 @@
 Gdańsk University of Technology
 
 [![arXiv](https://img.shields.io/badge/arXiv-2607.10495-b31b1b)](https://arxiv.org/abs/2607.10495)
+[![🤗 Space](https://img.shields.io/badge/%F0%9F%A4%97%20Space-Live%20Demo-blue)](https://huggingface.co/spaces/filippawlicki/nanovsr-demo)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 <img src="assets/teaser.gif" width="720" alt="Low-resolution input vs. NanoVSR-644k output (4x upscaling)"/>
@@ -240,7 +241,7 @@ Measured edge throughput (TensorRT FP16, T=15):
 If you find this work useful, please cite:
 
 ```bibtex
-@misc{pawlicki2026nanovsrrealtimevideosuperresolution,
+@misc{pawlicki2026nanovsr,
       title={NanoVSR: Towards Real-Time Video Super-Resolution on Edge Devices}, 
       author={Filip Pawlicki and Marcel Kańduła and Marcin Pucek and Kamil Dobies},
       year={2026},
