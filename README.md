@@ -2,7 +2,7 @@
 
 # NanoVSR: Towards Real-Time Video Super-Resolution on Edge Devices
 
-### Accepted to ECCV 2026
+### ECCV 2026
 
 [Filip Pawlicki](https://orcid.org/0009-0001-3375-8091) · [Marcel Kańduła](https://orcid.org/0009-0001-1314-5511) · [Marcin Pucek](https://orcid.org/0009-0003-9879-8195) · [Kamil Dobies](https://orcid.org/0009-0007-0441-2140)
 
